@@ -131,15 +131,15 @@
 
          
 
-        <!--<template id="custom_contactus_delete" inherit_id="website.contactus" name="Custom Contact Us">-->
-        <!--    <xpath expr="//div[@class='col-md-8']/div[@class='oe_structure']" position="replace">-->
-        <!--       <div class="heading-block">-->
-        <!--              <div class="sub-heading">Get in touch</div>-->
-        <!--              <h3 class="title">Say Hello</h3>-->
-        <!--            </div>-->
-        <!--    </xpath>-->
+        <template id="custom_contactus_delete" inherit_id="website.contactus" name="Custom Contact Us">
+            <xpath expr="//div[@class='col-md-8']/div[@class='oe_structure']" position="replace">
+               <div class="heading-block">
+                      <div class="sub-heading">Get in touch</div>
+                      <h3 class="title">Say Hello</h3>
+                    </div>
+            </xpath>
 
-        <!--   <xpath expr="//h1" position="replace"></xpath> -->
-        <!--</template>-->
+           <xpath expr="//h1" position="replace"></xpath> 
+        </template>
     </data>
 </openerp>
