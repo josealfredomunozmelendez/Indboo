@@ -4,7 +4,7 @@
 {
     'name': 'Theme Impacto',
     'summary': 'Html5 Responsive E-Commerce And Multi-Purpose theme',
-    'category': 'Theme/Ecommerce',
+    'category': 'Website',
     'author': 'Adventumweb',
     'sequence': 1,
     'version': '1.2',
